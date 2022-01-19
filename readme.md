@@ -4,8 +4,8 @@
 
 播放界面
 
-![image](https://github.com/sunger7/AudioRecording/tree/master/picture/image-20220120012715177.png)
+![image](https://github.com/sunger7/AudioRecording/blob/master/picture/image-20220120012715177.png)
 
 录音界面
 
-![image](https://github.com/sunger7/AudioRecording/tree/master/picture/image-20220120012859173.png)
+![image](https://github.com/sunger7/AudioRecording/blob/master/picture/image-20220120012859173.png)

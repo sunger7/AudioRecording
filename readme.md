@@ -4,8 +4,8 @@
 
 播放界面
 
-![image-20220120012715177](C:\Users\sunge\AppData\Roaming\Typora\typora-user-images\image-20220120012715177.png)
+https://github.com/sunger7/AudioRecording/tree/master/picture/image-20220120012715177.png
 
 录音界面
 
-![image-20220120012859173](C:\Users\sunge\AppData\Roaming\Typora\typora-user-images\image-20220120012859173.png)
+https://github.com/sunger7/AudioRecording/tree/master/picture/image-20220120012859173.png

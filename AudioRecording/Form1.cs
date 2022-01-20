@@ -191,7 +191,7 @@ namespace AudioRecording
                         points[i].X = (i*1.0f)/ (points.Length*1.0f) * wid;
                     }
 
-                    gr.DrawLines(new Pen(Brushes.Red), points);
+                    gr.DrawCurve(new Pen(Brushes.Red), points);
                 }
                 this.Invoke(new Action(() =>
                 {
@@ -266,8 +266,8 @@ namespace AudioRecording
                         }
                     }
 
-                    gr.DrawLines(new Pen(Brushes.DarkCyan), points);
-                    gr.DrawLines(new Pen(Brushes.Red), pointsPast);
+                    gr.DrawCurve(new Pen(Brushes.DarkCyan), points);
+                    gr.DrawCurve(new Pen(Brushes.Red), pointsPast);
                 }
                 
                 this.Invoke(new Action(() =>
